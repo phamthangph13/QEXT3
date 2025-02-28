@@ -1,0 +1,64 @@
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/appsettings.Development.json
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/appsettings.json
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.staticwebassets.runtime.json
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.exe
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.deps.json
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.runtimeconfig.json
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.dll
+D:/Backend c#/StudentAPI/bin/Debug/net8.0/StudentAPI.pdb
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfoInputs.cache
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfo.cs
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.csproj.CoreCompileInputs.cache
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.RazorAssemblyInfo.cache
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.RazorAssemblyInfo.cs
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets.build.json
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets.development.json
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.StudentAPI.props
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudentAPI.props
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudentAPI.props
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/scopedcss/bundle/StudentAPI.styles.css
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/scopedcss/projectbundle/StudentAPI.bundle.scp.css
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.dll
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/refint/StudentAPI.dll
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.pdb
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/StudentAPI.genruntimeconfig.cache
+D:/Backend c#/StudentAPI/obj/Debug/net8.0/ref/StudentAPI.dll
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/appsettings.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.staticwebassets.runtime.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.staticwebassets.endpoints.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.deps.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.runtimeconfig.json
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.dll
+/Users/thangpham/Desktop/web/StudentAPI/bin/Debug/net8.0/StudentAPI.pdb
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfoInputs.cache
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfo.cs
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.csproj.CoreCompileInputs.cache
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.RazorAssemblyInfo.cache
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.RazorAssemblyInfo.cs
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.sourcelink.json
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/scopedcss/bundle/StudentAPI.styles.css
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/scopedcss/projectbundle/StudentAPI.bundle.scp.css
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.StudentAPI.props
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudentAPI.props
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudentAPI.props
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.dll
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/refint/StudentAPI.dll
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.pdb
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/StudentAPI.genruntimeconfig.cache
+/Users/thangpham/Desktop/web/StudentAPI/obj/Debug/net8.0/ref/StudentAPI.dll
